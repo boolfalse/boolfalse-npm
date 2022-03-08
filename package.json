@@ -1,0 +1,24 @@
+{
+  "name": "boolfalse-test",
+  "version": "1.0.0",
+  "description": "Test NPM Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolfalse/boolfalse-npm.git"
+  },
+  "keywords": [
+    "boolfalse",
+    "test",
+    "package"
+  ],
+  "author": "boolfalse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boolfalse/boolfalse-npm/issues"
+  },
+  "homepage": "https://github.com/boolfalse/boolfalse-npm#readme"
+}
